@@ -15,7 +15,7 @@ Um site elegante e responsivo desenvolvido para Belle Époque, um salão de bele
 🔧 Frontend
 
 Tecnologia	Descrição	Logo
-React	Biblioteca JavaScript para construção de UIs	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+React	Biblioteca JavaScript para construção de UIs	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> <br/>
 JavaScript (ES6+)	Linguagem de programação principal	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
 CSS3	Estilização com CSS-in-JS	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
 React Icons	Ícones modernos (WhatsApp, Instagram, etc.)	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
