@@ -13,16 +13,18 @@ Um site elegante e responsivo desenvolvido para Belle Époque, um salão de bele
 
 🚀 Tecnologias e Ferramentas
 🔧 Frontend
+
 Tecnologia	Descrição	Logo
-React	Biblioteca JavaScript para construção de interfaces	React
-JavaScript (ES6+)	Linguagem de programação principal	JavaScript
-CSS3	Estilização avançada com CSS-in-JS	CSS3
-React Icons	Ícones modernos (WhatsApp, Instagram, etc.)	React Icons
+React	Biblioteca JavaScript para construção de UIs	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+JavaScript (ES6+)	Linguagem de programação principal	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+CSS3	Estilização com CSS-in-JS	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+React Icons	Ícones modernos (WhatsApp, Instagram, etc.)	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
 📚 Bibliotecas Principais
+
 Biblioteca	Uso	Logo
-React Slick	Carrossel de imagens responsivo	Slick
-AOS (Animate On Scroll)	Animações ao rolar a página	AOS
-React Scroll	Navegação suave entre seções	React Scroll
+React Slick	Carrossel de imagens responsivo	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+AOS (Animate On Scroll)	Animações ao rolar a página	<img src="https://img.icons8.com/ios/50/scrolling.png" width="30" />
+React Scroll	Navegação suave entre seções	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
 🎨 Design & UX
 ✔ Cores elegantes (dourado, marrom, branco)
 ✔ Tipografia premium (Playfair Display e Montserrat)
