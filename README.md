@@ -29,31 +29,10 @@ React Scroll	Navegação suave entre seções	React Scroll
 ✔ Botões com efeitos hover
 ✔ Responsividade total (Mobile, Tablet, Desktop)
 
-📂 Estrutura do Projeto
-salao-de-beleza-luxo/
-├── public/
-│   ├── images/          # Imagens do carrossel e galeria
-│   └── index.html       # Template HTML principal
-├── src/
-│   ├── components/      # Componentes React
-│   │   ├── Carousel.jsx
-│   │   ├── ContactForm.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Gallery.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Services.jsx
-│   │   ├── Testimonials.jsx
-│   │   ├── WhatsAppButton.jsx
-│   │   └── InstagramButton.jsx
-│   ├── App.js           # Componente principal
-│   ├── index.js         # Ponto de entrada
-│   └── styles.css       # Estilos globais
-├── package.json         # Dependências
-└── README.md            # Documentação
-🛠 Como Executar
+
 Clone o repositório
 
-bash
+
 git clone https://github.com/seu-usuario/salao-de-beleza-luxo.git
 cd salao-de-beleza-luxo
 Instale as dependências
