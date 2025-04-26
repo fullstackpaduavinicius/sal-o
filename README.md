@@ -1,56 +1,44 @@
-Belle Époque - Salão de Beleza Premium
-✨ Landing Page sofisticada para um salão de beleza de luxo ✨
+# Belle Époque - Salão de Beleza Premium ✨
 
-📌 Visão Geral
-Um site elegante e responsivo desenvolvido para Belle Époque, um salão de beleza premium. O projeto apresenta:
-✅ Design luxuoso com tons dourados e sofisticados
-✅ Carrossel de imagens destacando o ambiente do salão
-✅ Seção de serviços completos oferecidos
-✅ Galeria de trabalhos realizados
-✅ Depoimentos de clientes satisfeitas
-✅ Formulário de orçamento integrado ao WhatsApp
-✅ Botões flutuantes de WhatsApp e Instagram
+Landing Page sofisticada para um salão de beleza de luxo.
 
-Tecnologia | Descrição | Logo
-React | Biblioteca JavaScript para construção de UIs | 
-JavaScript (ES6+) | Linguagem de programação principal | 
-CSS3 | Estilização com CSS-in-JS | 
-React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | 
+## Visão Geral
+O **Belle Époque** é um salão de beleza premium e sua landing page foi projetada para oferecer uma experiência visual luxuosa e moderna. O projeto contém:
 
-Biblioteca	Uso	Logo
-React Slick	Carrossel de imagens responsivo	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-AOS (Animate On Scroll)	Animações ao rolar a página	<img src="https://img.icons8.com/ios/50/scrolling.png" width="30" />
-React Scroll	Navegação suave entre seções	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-🎨 Design & UX
-✔ Cores elegantes (dourado, marrom, branco)
-✔ Tipografia premium (Playfair Display e Montserrat)
-✔ Botões com efeitos hover
-✔ Responsividade total (Mobile, Tablet, Desktop)
+- ✅ Design luxuoso com tons dourados e sofisticados
+- ✅ Carrossel de imagens destacando o ambiente do salão
+- ✅ Seção de serviços completos oferecidos
+- ✅ Galeria de trabalhos realizados
+- ✅ Depoimentos de clientes satisfeitas
+- ✅ Formulário de orçamento integrado ao WhatsApp
+- ✅ Botões flutuantes de WhatsApp e Instagram
 
+## Tecnologias Utilizadas
+### Principais Tecnologias:
+| Tecnologia | Descrição | Logo |
+|------------|-----------|------|
+| React | Biblioteca JavaScript para construção de UIs | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| JavaScript (ES6+) | Linguagem de programação principal | |
+| CSS3 | Estilização com CSS-in-JS | |
+| React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | |
+  
+### Bibliotecas Adicionais:
+| Biblioteca | Uso | Logo |
+|------------|-----|------|
+| React Slick | Carrossel de imagens responsivo | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| AOS (Animate On Scroll) | Animações ao rolar a página | ![AOS Logo](https://img.icons8.com/ios/50/scrolling.png) |
+| React Scroll | Navegação suave entre seções | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
 
-Clone o repositório
+## Design & UX
+- ✔ Cores elegantes (dourado, marrom, branco)
+- ✔ Tipografia premium (Playfair Display e Montserrat)
+- ✔ Botões com efeitos hover
+- ✔ Responsividade total (Mobile, Tablet, Desktop)
 
+## Como Rodar o Projeto
 
+Clone o repositório:
+
+```bash
 git clone https://github.com/seu-usuario/salao-de-beleza-luxo.git
 cd salao-de-beleza-luxo
-Instale as dependências
-
-
-npm install
-Inicie o servidor de desenvolvimento
-
-
-npm start
-Acesse no navegador
-
-http://localhost:3000
-
-
-📝 Licença
-MIT License - Consulte o arquivo LICENSE para mais detalhes.
-
-
-
-🔗 Live Demo: https://belleepoque-salao.netlify.app
-
-
