@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+Belle Époque - Salão de Beleza Premium
+✨ Landing Page sofisticada para um salão de beleza de luxo ✨
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📌 Visão Geral
+Um site elegante e responsivo desenvolvido para Belle Époque, um salão de beleza premium. O projeto apresenta:
+✅ Design luxuoso com tons dourados e sofisticados
+✅ Carrossel de imagens destacando o ambiente do salão
+✅ Seção de serviços completos oferecidos
+✅ Galeria de trabalhos realizados
+✅ Depoimentos de clientes satisfeitas
+✅ Formulário de orçamento integrado ao WhatsApp
+✅ Botões flutuantes de WhatsApp e Instagram
 
-## Available Scripts
+🚀 Tecnologias e Ferramentas
+🔧 Frontend
+Tecnologia	Descrição	Logo
+React	Biblioteca JavaScript para construção de interfaces	React
+JavaScript (ES6+)	Linguagem de programação principal	JavaScript
+CSS3	Estilização avançada com CSS-in-JS	CSS3
+React Icons	Ícones modernos (WhatsApp, Instagram, etc.)	React Icons
+📚 Bibliotecas Principais
+Biblioteca	Uso	Logo
+React Slick	Carrossel de imagens responsivo	Slick
+AOS (Animate On Scroll)	Animações ao rolar a página	AOS
+React Scroll	Navegação suave entre seções	React Scroll
+🎨 Design & UX
+✔ Cores elegantes (dourado, marrom, branco)
+✔ Tipografia premium (Playfair Display e Montserrat)
+✔ Botões com efeitos hover
+✔ Responsividade total (Mobile, Tablet, Desktop)
 
-In the project directory, you can run:
+📂 Estrutura do Projeto
+salao-de-beleza-luxo/
+├── public/
+│   ├── images/          # Imagens do carrossel e galeria
+│   └── index.html       # Template HTML principal
+├── src/
+│   ├── components/      # Componentes React
+│   │   ├── Carousel.jsx
+│   │   ├── ContactForm.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Services.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── WhatsAppButton.jsx
+│   │   └── InstagramButton.jsx
+│   ├── App.js           # Componente principal
+│   ├── index.js         # Ponto de entrada
+│   └── styles.css       # Estilos globais
+├── package.json         # Dependências
+└── README.md            # Documentação
+🛠 Como Executar
+Clone o repositório
 
-### `npm start`
+bash
+git clone https://github.com/seu-usuario/salao-de-beleza-luxo.git
+cd salao-de-beleza-luxo
+Instale as dependências
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm install
+Inicie o servidor de desenvolvimento
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm start
+Acesse no navegador
 
-### `npm run build`
+http://localhost:3000
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📝 Licença
+MIT License - Consulte o arquivo LICENSE para mais detalhes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔗 Live Demo: https://belleepoque-salao.netlify.app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
