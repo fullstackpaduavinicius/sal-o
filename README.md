@@ -12,10 +12,10 @@ Um site elegante e responsivo desenvolvido para Belle Époque, um salão de bele
 ✅ Botões flutuantes de WhatsApp e Instagram
 
 Tecnologia | Descrição | Logo
-React | Biblioteca JavaScript para construção de UIs | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-JavaScript (ES6+) | Linguagem de programação principal | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-CSS3 | Estilização com CSS-in-JS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+React | Biblioteca JavaScript para construção de UIs | 
+JavaScript (ES6+) | Linguagem de programação principal | 
+CSS3 | Estilização com CSS-in-JS | 
+React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | 
 
 Biblioteca	Uso	Logo
 React Slick	Carrossel de imagens responsivo	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
