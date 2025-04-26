@@ -18,16 +18,16 @@ O **Belle Époque** é um salão de beleza premium e sua landing page foi projet
 | Tecnologia | Descrição | Logo |
 |------------|-----------|------|
 | React | Biblioteca JavaScript para construção de UIs | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-| JavaScript (ES6+) | Linguagem de programação principal | |
-| CSS3 | Estilização com CSS-in-JS | |
-| React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | |
+| JavaScript (ES6+) | Linguagem de programação principal | ![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
+| CSS3 | Estilização com CSS-in-JS | ![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
+| React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | ![React Icons Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
   
 ### Bibliotecas Adicionais:
 | Biblioteca | Uso | Logo |
 |------------|-----|------|
-| React Slick | Carrossel de imagens responsivo | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| React Slick | Carrossel de imagens responsivo | ![React Slick Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
 | AOS (Animate On Scroll) | Animações ao rolar a página | ![AOS Logo](https://img.icons8.com/ios/50/scrolling.png) |
-| React Scroll | Navegação suave entre seções | ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| React Scroll | Navegação suave entre seções | ![React Scroll Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
 
 ## Design & UX
 - ✔ Cores elegantes (dourado, marrom, branco)
@@ -39,6 +39,27 @@ O **Belle Époque** é um salão de beleza premium e sua landing page foi projet
 
 Clone o repositório:
 
-```bash
 git clone https://github.com/seu-usuario/salao-de-beleza-luxo.git
 cd salao-de-beleza-luxo
+Instale as dependências:
+
+
+Editar
+npm install
+Inicie o servidor de desenvolvimento:
+
+
+npm start
+Acesse o projeto no navegador:
+
+http://localhost:3000
+
+Licença
+Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
+
+Live Demo
+Confira a versão ao vivo do projeto aqui.
+
+lua
+Copiar
+Editar
