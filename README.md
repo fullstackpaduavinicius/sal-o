@@ -23,11 +23,12 @@ O **Belle Époque** é um salão de beleza premium e sua landing page foi projet
 | React Icons | Ícones modernos (WhatsApp, Instagram, etc.) | ![React Icons Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
   
 ### Bibliotecas Adicionais:
-| Biblioteca | Uso | Logo |
-|------------|-----|------|
-| React Slick | Carrossel de imagens responsivo | ![React Slick Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-| AOS (Animate On Scroll) | Animações ao rolar a página | ![AOS Logo](https://img.icons8.com/ios/50/scrolling.png) |
-| React Scroll | Navegação suave entre seções | ![React Scroll Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| **Biblioteca**           | **Uso**                           | **Logo**                                                                 |
+|--------------------------|-----------------------------------|-------------------------------------------------------------------------|
+| **React Slick**           | Carrossel de imagens responsivo   | ![React Slick Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| **AOS (Animate On Scroll)** | Animações ao rolar a página       | ![AOS Logo](https://img.icons8.com/ios/50/scrolling.png)                 |
+| **React Scroll**          | Navegação suave entre seções      | ![React Scroll Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+
 
 ## Design & UX
 - ✔ Cores elegantes (dourado, marrom, branco)
